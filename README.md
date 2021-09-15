@@ -1,3 +1,3 @@
 # My Circuit Python Work
 
-This is where I'll stash my CircuitPythoin work.
+This is where I'll stash my CircuitPython work.
